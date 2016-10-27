@@ -1,0 +1,45 @@
+body {
+    background: #ededed;
+    font - family: 'Open Sans',
+    sans - serif;
+
+}
+.navbar {
+    border - radius: 0 px;
+}
+.form_chat {
+    padding: 10 px;
+}
+.form-control {
+    width: inherit;
+}
+.chat_message {
+    padding: 10 px;
+    color: #000;
+        font-size: 15px;
+        background: # fff;
+    font - family: 'Open Sans',
+    sans - serif;
+}
+.td_class {
+    word -
+        break: break -all;
+    padding: 34 px;
+    padding - bottom: 0 px;
+    padding - top: 20 px;
+    border: 0;
+}
+.navbar-brand {
+    font - size: 14 px;
+    font - weight: 600;
+    text - decoration: none;
+}
+.user_name {
+    padding - bottom: 0;
+    color: #fff;
+    font - size: 15 px;
+}
+.col - lg - 4, .col - lg - 6 {
+    padding - right: 3 px;
+    padding - left: 3 px;
+}
